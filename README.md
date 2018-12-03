@@ -1,8 +1,11 @@
-# furniture_ui
+# Furniture_UI
 
-A new Flutter project.
+Screen design of a Furniture app using Flutter.
 
-## Getting Started
+Design credit - https://dribbble.com/shots/5601479-Furniture-app/attachments/1210953
 
-For help getting started with Flutter, view our online
-[documentation](https://flutter.io/).
+How do I code this - https://youtu.be/ZtPe6Zu6BA4
+
+Screenshots
+
+![screenshot_20181203-232850](https://user-images.githubusercontent.com/8137504/49392298-09e33980-f754-11e8-9fc2-7cd12b62e604.png)
